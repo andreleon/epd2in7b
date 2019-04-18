@@ -115,3 +115,4 @@ exports.buttons = {
 	button4: button4,
 	handler: buttons
 }
+exports.jaja = epd2in7b
